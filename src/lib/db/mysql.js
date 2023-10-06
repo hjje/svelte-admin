@@ -16,6 +16,7 @@ export function mysqlconnFn() {
       user: "root",
       password: "1234",
       database: "genius",
+      port: 3306,
     });
   }
 
